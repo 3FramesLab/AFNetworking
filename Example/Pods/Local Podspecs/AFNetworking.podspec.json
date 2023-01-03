@@ -1,0 +1,22 @@
+{
+  "name": "AFNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of AFNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/VijayendraKumarMadda/AFNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "VijayendraKumarMadda": "vijayendra@3frameslab.com"
+  },
+  "source": {
+    "git": "https://github.com/VijayendraKumarMadda/AFNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AFNetworking/Classes/**/*"
+}
